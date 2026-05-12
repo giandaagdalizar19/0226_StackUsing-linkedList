@@ -76,3 +76,8 @@ public:
         return top == NULL; //return true if the top pointer is null, indicatig an empty stack
     }
 };
+int main()
+{
+    stack stack;
+
+    
